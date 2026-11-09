@@ -1,0 +1,32 @@
+
+body {
+    background: linear-gradient(120deg, #667eea, #764ba2);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 120px;
+}
+
+.clock {
+    background: rgb(209, 166, 166);
+    width: 350px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px #19746f;
+}
+
+h1 {
+    color: #333;
+}
+
+#time {
+    font-size: 40px;
+    color: purple;
+    font-weight: bold;
+}
+
+#date {
+    font-size: 20px;
+    color: gray;
+    margin-top: 15px;
+}
